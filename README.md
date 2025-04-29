@@ -46,3 +46,5 @@ C++, Object-Oriented Programming (OOP), File Handling, Exception Handling, Virtu
 #### Outcome  
 Successfully developed a feature-rich, extensible system that demonstrates advanced proficiency in OOP, allowing for flexible event data management and analysis through a structured console interface.
 
+
+
